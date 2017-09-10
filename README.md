@@ -2,13 +2,13 @@
 A Simple WordPress blog theme.
 
 ## Features
-### Supports post format
-#### aside
-#### gallery
-#### quote
-#### link
-#### image
-#### audio
-#### video
+### 01. Supports post format
+##### aside
+##### gallery
+##### quote
+##### link
+##### image
+##### audio
+##### video
 
-### Slider Image from Category
+### 02. Slider Image from Category post
